@@ -5,4 +5,4 @@ return 32
 
 }
 
-fun ()
+fun (3)
